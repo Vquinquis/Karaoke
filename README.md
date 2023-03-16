@@ -1,0 +1,2 @@
+# Karaoke
+ eval_class
